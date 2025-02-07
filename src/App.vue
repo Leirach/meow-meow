@@ -88,4 +88,12 @@ button {
   width: 100vw;
   height: auto;
 }
+
+@media (min-width: 768px) {
+  .yippie {
+    width: auto;
+    height: 50vh;
+  }
+}
+
 </style>
