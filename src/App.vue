@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 import MovingButton from './components/MovingButton.vue'
 import { ref, onMounted } from "vue";
 
